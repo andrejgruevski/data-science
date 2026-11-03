@@ -1,0 +1,401 @@
+order_id,ordered_on,city,customer_type,sales_channel,membership,payment_method,delivery,items,package_weight,order_value,delivery_days,delivery_fee,discount,account_age_days,rating
+73001,2025-12-01,Skopje,consumer,marketplace,gold,?,home,5,?,144.72,4,2.9,4.4,370,4
+73002,2025-12-02,Gostivar,consumer,website,bronze,card,home,6,6.0,87.73,1,2.8,9.4,200,5
+73003,2025-12-04,Skopje,consumer,mobile app,none,wallet,home,3,2.5,40.13,4,3.8,1.2,60,3
+73004,2025-12-05,Gostivar,consumer,marketplace,bronze,wallet,store pickup,1,0.6,20.97,5,?,0.0,195,5
+73005,2025-12-05,Skopje,consumer,website,none,card,home,4,3.5,69.19,1,3.2,1.8,100,4
+73006,2025-12-07,Kičevo,consumer,website,silver,cash on delivery,parcel locker,1,0.5,31.30,?,2.0,1.4,95,4
+73007,2025-12-07,Skopje,consumer,mobile app,gold,card,home,4,3.7,100.02,3,4.4,2.9,229,5
+73008,2025-12-09,Veles,consumer,website,bronze,cash on delivery,parcel locker,1,0.8,23.99,1,1.7,5.6,248,4
+73009,2025-12-09,Kumanovo,consumer,mobile app,none,cash on delivery,home,1,0.9,35.98,2,2.9,2.9,267,4
+73010,2025-12-10,Skopje,consumer,mobile app,none,card,parcel locker,3,2.9,72.52,5,1.6,3.6,126,2
+73011,2025-12-12,Skopje,consumer,mobile app,bronze,cash on delivery,home,2,1.5,41.06,4,4.0,4.9,241,5
+73012,2025-12-13,Veles,consumer,website,silver,cash on delivery,home,6,?,85.40,5,2.7,4.0,200,4
+73013,2025-12-13,Veles,consumer,mobile app,silver,cash on delivery,home,1,1.2,13.20,4,3.3,0.0,87,3
+73014,2025-12-13,Štip,consumer,mobile app,gold,card,home,5,4.7,148.67,?,4.5,7.1,180,5
+73015,2025-12-14,Strumica,business,website,none,card,store pickup,39,35.0,675.78,5,?,1.7,103,4
+73016,2025-12-14,Struga,consumer,mobile app,bronze,cash on delivery,home,1,0.4,22.26,5,3.9,3.9,191,3
+73017,2025-12-16,Resen,consumer,mobile app,silver,cash on delivery,home,2,2.0,57.06,3,3.7,2.0,130,5
+73018,2025-12-18,Radoviš,consumer,marketplace,bronze,bank transfer,parcel locker,6,5.5,83.13,4,1.6,0.0,377,3
+73019,2025-12-21,Gevgelija,consumer,marketplace,silver,card,home,1,?,23.51,5,3.0,0.0,116,5
+73020,2025-12-21,Tetovo,consumer,website,bronze,cash on delivery,home,2,2.0,34.93,?,2.7,2.8,113,5
+73021,2025-12-22,Kumanovo,consumer,website,bronze,cash on delivery,store pickup,4,3.2,105.22,1,?,5.8,43,5
+73022,2025-12-25,Delčevo,consumer,marketplace,bronze,wallet,parcel locker,2,?,40.56,3,2.2,0.0,280,4
+73023,2025-12-26,Skopje,business,website,none,cash on delivery,home,29,27.0,708.53,2,3.9,7.4,250,4
+73024,2025-12-26,Skopje,consumer,mobile app,none,card,home,1,1.4,20.72,1,4.1,2.7,120,5
+73025,2025-12-27,Veles,consumer,marketplace,bronze,cash on delivery,home,4,?,127.16,1,4.1,0.0,65,5
+73026,2025-12-28,Kratovo,consumer,website,none,cash on delivery,home,2,2.0,63.28,1,2.7,5.4,480,5
+73027,2025-12-30,Štip,consumer,marketplace,bronze,cash on delivery,store pickup,1,?,23.89,1,?,0.0,69,5
+73028,2025-12-30,Kočani,consumer,mobile app,bronze,cash on delivery,home,3,2.9,129.06,3,3.0,4.5,433,4
+73029,2025-12-31,Veles,consumer,website,bronze,card,parcel locker,3,2.6,46.78,4,2.1,0.0,144,5
+73030,2026-01-01,Kumanovo,consumer,mobile app,none,card,home,6,4.7,170.98,5,3.0,6.2,346,3
+73031,2026-01-02,Skopje,consumer,website,none,cash on delivery,home,1,0.7,31.69,2,4.3,1.8,96,4
+73032,2026-01-02,Bitola,consumer,marketplace,bronze,card,home,2,2.0,47.73,1,4.1,10.6,303,?
+73033,2026-01-02,Kumanovo,consumer,marketplace,silver,card,home,2,?,62.39,?,3.2,14.7,317,4
+73034,2026-01-03,Skopje,consumer,marketplace,bronze,bank transfer,home,1,?,24.97,4,3.8,6.4,265,3
+73035,2026-01-04,Strumica,consumer,mobile app,gold,card,home,1,1.0,18.79,5,2.8,0.0,157,3
+73036,2026-01-04,Kumanovo,business,website,silver,card,store pickup,32,29.0,385.21,4,?,3.1,187,3
+73037,2026-01-07,Gostivar,consumer,mobile app,none,cash on delivery,parcel locker,3,3.1,44.15,1,1.7,6.3,158,4
+73038,2026-01-08,Štip,consumer,mobile app,none,card,home,4,3.9,80.37,4,3.0,0.0,130,5
+73039,2026-01-09,Tetovo,consumer,website,silver,bank transfer,parcel locker,1,1.8,32.05,1,1.9,7.3,65,5
+73040,2026-01-10,Skopje,consumer,mobile app,bronze,card,home,2,2.1,49.00,3,4.5,0.0,174,5
+73041,2026-01-10,Berovo,consumer,mobile app,silver,cash on delivery,home,1,1.1,17.95,1,2.9,2.0,81,4
+73042,2026-01-12,Skopje,consumer,website,silver,card,home,3,2.7,58.07,3,3.9,2.0,141,5
+73043,2026-01-12,Veles,consumer,website,none,card,parcel locker,2,2.3,48.71,5,1.7,0.0,141,3
+73044,2026-01-13,Skopje,consumer,mobile app,bronze,card,home,4,4.2,133.91,4,3.5,0.0,141,4
+73045,2026-01-15,Kumanovo,consumer,website,silver,card,home,5,4.4,127.34,5,2.6,0.0,194,4
+73046,2026-01-16,Bitola,consumer,marketplace,bronze,card,store pickup,1,0.6,27.72,2,?,3.4,232,4
+73047,2026-01-17,Ohrid,consumer,website,none,cash on delivery,parcel locker,2,1.8,59.74,4,1.7,2.9,248,4
+73048,2026-01-17,Skopje,consumer,mobile app,none,card,parcel locker,3,2.9,78.49,2,1.9,6.8,70,5
+73049,2026-01-17,Negotino,consumer,website,none,card,home,3,2.9,97.76,2,3.0,0.0,212,3
+73050,2026-01-17,Skopje,consumer,marketplace,gold,card,home,2,?,34.64,3,3.6,18.7,275,4
+73051,2026-01-18,Skopje,consumer,marketplace,none,bank transfer,home,3,?,51.04,2,2.7,5.4,129,4
+73052,2026-01-19,Skopje,consumer,website,none,wallet,home,6,5.9,59.97,4,4.4,0.0,177,4
+73053,2026-01-19,Strumica,consumer,mobile app,gold,bank transfer,home,2,1.8,33.18,?,3.4,0.0,153,4
+73054,2026-01-20,Skopje,consumer,mobile app,none,card,home,3,2.1,81.89,1,4.0,6.7,482,5
+73055,2026-01-22,Skopje,consumer,website,bronze,card,home,1,0.9,31.11,4,3.3,30.4,103,4
+73056,2026-01-22,Prilep,consumer,mobile app,silver,bank transfer,store pickup,2,1.1,59.62,3,?,0.0,335,4
+73057,2026-01-23,Kumanovo,consumer,website,bronze,card,home,4,3.9,73.04,5,4.4,15.5,466,4
+73058,2026-01-25,Kočani,consumer,mobile app,bronze,wallet,home,5,4.5,96.76,2,2.8,8.7,226,5
+73059,2026-01-25,Kumanovo,consumer,mobile app,bronze,card,home,5,4.2,113.26,5,3.4,0.9,313,4
+73060,2026-01-25,Veles,consumer,mobile app,none,card,home,1,0.7,52.45,1,4.3,4.3,66,5
+73061,2026-01-27,Prilep,consumer,marketplace,silver,?,home,5,4.8,142.31,?,3.2,8.7,149,4
+73062,2026-01-27,Bitola,consumer,mobile app,bronze,card,store pickup,5,4.4,56.38,4,?,2.3,59,4
+73063,2026-01-27,Skopje,consumer,marketplace,none,card,parcel locker,1,?,28.19,4,2.4,4.8,160,4
+73064,2026-01-29,Bitola,consumer,mobile app,none,wallet,parcel locker,1,1.0,28.10,1,1.6,8.9,125,5
+73065,2026-01-31,Veles,consumer,marketplace,silver,card,home,4,?,118.08,5,2.7,1.1,295,5
+73066,2026-01-31,Tetovo,consumer,website,none,cash on delivery,home,4,3.7,105.32,4,3.3,2.7,238,4
+73067,2026-02-01,Skopje,consumer,marketplace,gold,cash on delivery,parcel locker,2,?,50.84,5,2.1,11.7,238,4
+73068,2026-02-01,Skopje,consumer,mobile app,silver,cash on delivery,parcel locker,3,3.2,75.39,2,2.4,2.0,576,5
+73069,2026-02-01,Delčevo,consumer,marketplace,silver,wallet,home,1,2.0,22.18,4,2.9,2.1,367,4
+73070,2026-02-02,Kavadarci,consumer,marketplace,bronze,card,home,5,4.7,78.90,3,3.5,3.0,112,?
+73071,2026-02-02,Skopje,consumer,website,bronze,card,parcel locker,2,2.3,43.88,3,2.5,0.0,191,5
+73072,2026-02-03,Kumanovo,consumer,marketplace,bronze,card,home,1,?,42.14,4,2.6,5.4,281,5
+73073,2026-02-04,Skopje,consumer,marketplace,none,cash on delivery,parcel locker,1,0.2,25.34,3,2.3,5.7,143,4
+73074,2026-02-06,Skopje,consumer,marketplace,bronze,wallet,home,5,5.1,90.22,3,4.3,0.0,114,3
+73075,2026-02-06,Skopje,consumer,marketplace,silver,card,home,1,0.8,18.31,2,3.9,0.0,142,4
+73076,2026-02-08,Skopje,consumer,marketplace,gold,card,home,1,1.3,34.94,1,3.9,0.8,157,5
+73077,2026-02-11,Skopje,consumer,marketplace,bronze,cash on delivery,home,1,0.7,22.44,3,3.9,1.3,83,5
+73078,2026-02-13,Kumanovo,consumer,marketplace,none,card,home,2,2.5,45.19,2,3.1,0.0,391,5
+73079,2026-02-14,Skopje,consumer,marketplace,none,cash on delivery,home,2,?,33.58,1,3.6,1.3,270,5
+73080,2026-02-16,Skopje,consumer,mobile app,none,card,parcel locker,2,2.1,25.54,4,2.0,0.0,230,5
+73081,2026-02-19,Gostivar,consumer,website,gold,card,home,2,1.6,35.58,3,3.2,1.5,91,5
+73082,2026-02-19,Kumanovo,consumer,website,bronze,card,store pickup,1,0.9,47.51,1,?,1.3,80,5
+73083,2026-02-20,Kumanovo,consumer,marketplace,none,card,home,1,?,18.22,3,2.6,3.7,294,4
+73084,2026-02-20,Bitola,consumer,marketplace,silver,bank transfer,home,4,?,94.92,5,3.4,0.0,429,3
+73085,2026-02-20,Kavadarci,consumer,website,bronze,cash on delivery,home,3,3.2,73.62,3,3.1,2.5,322,4
+73086,2026-02-21,Skopje,business,website,silver,card,home,60,54.5,759.75,?,4.3,2.5,125,4
+73087,2026-02-23,Kumanovo,consumer,marketplace,silver,card,parcel locker,5,4.1,94.56,1,2.1,1.7,50,5
+73088,2026-02-23,Negotino,consumer,website,bronze,card,store pickup,1,1.0,14.70,1,?,3.6,231,5
+73089,2026-02-23,Resen,consumer,website,silver,bank transfer,home,4,3.8,135.45,5,2.5,13.8,317,4
+73090,2026-02-24,Skopje,consumer,marketplace,none,card,home,300,2.8,91.92,?,3.4,0.8,242,4
+73091,2026-02-24,Skopje,consumer,mobile app,none,card,store pickup,2,1.4,55.24,4,?,5.1,905,4
+73092,2026-02-25,Kičevo,consumer,marketplace,none,card,home,2,1.5,48.84,4,3.7,7.9,122,4
+73093,2026-02-25,Sveti Nikole,consumer,mobile app,bronze,cash on delivery,home,1,1.0,28.34,1,4.2,3.5,847,5
+73094,2026-02-25,Tetovo,consumer,mobile app,none,cash on delivery,home,3,2.4,76.95,4,2.7,6.6,178,4
+73095,2026-02-26,Štip,consumer,marketplace,none,cash on delivery,parcel locker,2,2.4,33.86,1,2.5,3.0,173,5
+73096,2026-02-28,Veles,consumer,marketplace,none,card,home,5,?,81.91,3,4.1,3.3,138,5
+73097,2026-03-04,Tetovo,consumer,website,none,cash on delivery,parcel locker,6,5.1,79.41,5,1.9,5.9,231,2
+73098,2026-03-04,Kavadarci,consumer,marketplace,bronze,card,home,1,?,80.51,3,3.2,5.8,410,4
+73099,2026-03-06,Skopje,consumer,mobile app,none,card,parcel locker,3,2.8,81.12,2,2.5,0.0,120,4
+73100,2026-03-07,Debar,business,website,none,wallet,home,54,49.0,1040.23,5,4.0,2.8,282,5
+73101,2026-03-07,Radoviš,consumer,website,none,card,home,2,2.0,75.47,4,2.8,2.8,127,5
+73102,2026-03-09,Skopje,consumer,website,bronze,cash on delivery,parcel locker,4,3.4,92.52,5,1.6,2.5,115,4
+73103,2026-03-10,Tetovo,consumer,marketplace,none,card,parcel locker,1,1.0,28.07,1,2.0,2.0,219,5
+73104,2026-03-10,Veles,consumer,marketplace,gold,card,parcel locker,3,2.8,45.65,4,1.7,5.0,455,4
+73105,2026-03-10,Skopje,consumer,mobile app,silver,cash on delivery,home,2,2.6,50.59,5,4.4,1.9,548,3
+73106,2026-03-12,Veles,consumer,website,gold,card,home,1,0.8,19.45,1,3.4,4.2,650,5
+73107,2026-03-12,Prilep,consumer,website,gold,card,home,5,4.4,80.35,3,3.1,4.2,447,5
+73108,2026-03-13,Bitola,consumer,marketplace,none,card,home,4,?,171.60,2,2.9,8.8,134,5
+73109,2026-03-13,Gostivar,consumer,marketplace,bronze,card,home,5,?,164.80,5,4.2,0.0,233,3
+73110,2026-03-14,Skopje,consumer,mobile app,none,bank transfer,home,5,4.4,141.94,1,4.5,2.8,73,5
+73111,2026-03-14,Prilep,consumer,marketplace,gold,card,home,6,5.5,114.32,1,3.9,2.3,210,5
+73112,2026-03-14,Skopje,consumer,website,bronze,card,home,4,3.6,117.19,1,3.1,2.0,135,4
+73113,2026-03-14,Skopje,consumer,mobile app,none,cash on delivery,home,4,?,47.29,?,4.0,4.4,241,3
+73114,2026-03-15,Veles,consumer,mobile app,silver,card,home,2,1.4,55.94,2,2.9,0.0,147,4
+73115,2026-03-18,Skopje,consumer,mobile app,none,bank transfer,home,4,3.5,76.62,1,4.1,12.2,108,5
+73116,2026-03-19,Veles,consumer,mobile app,silver,card,parcel locker,1,0.6,21.96,4,2.4,1.6,944,5
+73117,2026-03-19,Radoviš,consumer,website,none,cash on delivery,store pickup,2,2.0,28.45,5,?,1.9,144,3
+73118,2026-03-22,Ohrid,consumer,website,gold,cash on delivery,home,5,4.2,148.46,2,3.2,2.2,106,4
+73119,2026-03-22,Skopje,consumer,marketplace,bronze,bank transfer,home,2,?,60.00,4,2.8,3.8,272,4
+73120,2026-03-23,Debar,consumer,marketplace,gold,card,home,1,?,39.64,3,3.9,3.7,123,5
+73121,2026-03-24,Skopje,consumer,marketplace,none,?,parcel locker,2,1.8,44.10,3,2.3,4.2,169,4
+73122,2026-03-25,Veles,consumer,website,none,card,parcel locker,4,3.6,69.25,2,1.7,3.7,162,4
+73123,2026-03-25,Skopje,consumer,marketplace,none,cash on delivery,parcel locker,4,2.9,66.62,?,1.6,0.0,512,4
+73124,2026-03-25,Kumanovo,consumer,marketplace,none,bank transfer,home,4,3.5,56.62,5,4.3,18.4,366,3
+73125,2026-03-26,Skopje,consumer,marketplace,bronze,bank transfer,home,5,4.7,103.87,3,3.0,2.1,201,3
+73126,2026-03-27,Strumica,consumer,website,none,card,home,1,0.8,42.26,2,2.5,3.1,376,4
+73127,2026-03-27,Tetovo,consumer,website,none,cash on delivery,home,5,4.1,119.72,3,2.9,4.0,134,4
+73128,2026-03-28,Skopje,consumer,marketplace,bronze,bank transfer,home,1,0.6,21.38,3,2.6,8.5,96,4
+73129,2026-03-28,Skopje,consumer,website,bronze,cash on delivery,home,1,6.6,47.82,5,4.4,6.0,392,4
+73130,2026-03-28,Skopje,consumer,mobile app,none,wallet,home,3,2.6,79.15,4,4.5,6.1,127,4
+73131,2026-03-30,Skopje,consumer,mobile app,none,cash on delivery,store pickup,1,0.8,33.32,5,?,25.9,184,3
+73132,2026-03-30,Strumica,consumer,mobile app,none,card,home,1,6.9,25.29,2,4.5,2.2,213,5
+73133,2026-04-01,Skopje,consumer,website,bronze,card,home,3,2.3,58.46,2,3.1,0.0,104,3
+73134,2026-04-02,Skopje,consumer,marketplace,bronze,card,home,1,0.8,42.32,5,2.7,3.5,89,4
+73135,2026-04-02,Prilep,consumer,website,platinum,card,home,3,?,46.36,3,3.9,2.4,132,3
+73136,2026-04-02,Skopje,consumer,website,none,cash on delivery,parcel locker,6,5.2,82.49,1,2.5,3.1,188,5
+73137,2026-04-03,Kumanovo,consumer,marketplace,silver,card,home,2,?,33.97,3,4.1,8.3,481,4
+73138,2026-04-03,Kavadarci,consumer,website,none,card,parcel locker,6,5.3,102.48,3,1.5,7.5,261,4
+73139,2026-04-07,Skopje,consumer,website,bronze,?,home,1,0.9,20.28,1,4.4,0.8,176,5
+73140,2026-04-07,Kičevo,consumer,website,gold,card,home,1,1.0,15.37,3,4.1,15.4,335,4
+73141,2026-04-07,Skopje,consumer,mobile app,none,card,store pickup,6,5.6,82.92,3,?,1.6,250,5
+73142,2026-04-08,Štip,consumer,marketplace,none,card,home,4,?,143.01,5,3.5,1.8,86,4
+73143,2026-04-08,Prilep,consumer,marketplace,gold,cash on delivery,home,2,1.5,31.69,?,3.4,1.6,366,4
+73144,2026-04-08,Kumanovo,consumer,mobile app,none,cash on delivery,store pickup,4,2.7,65.11,1,?,23.5,257,4
+73145,2026-04-09,Skopje,consumer,marketplace,silver,bank transfer,home,2,?,37.01,2,4.4,5.6,127,5
+73146,2026-04-10,Veles,consumer,marketplace,bronze,card,home,5,4.9,231.56,5,4.5,4.2,329,4
+73147,2026-04-12,Skopje,consumer,marketplace,silver,cash on delivery,home,4,?,122.11,1,3.8,6.0,233,5
+73148,2026-04-13,Kumanovo,consumer,marketplace,none,card,home,2,?,86.05,5,3.7,4.9,113,3
+73149,2026-04-13,Prilep,consumer,marketplace,bronze,cash on delivery,parcel locker,2,1.8,38.27,2,2.0,9.9,403,?
+73150,2026-04-13,Kumanovo,consumer,marketplace,gold,card,parcel locker,1,0.8,18.73,4,2.0,5.6,171,4
+73151,2026-04-13,Skopje,consumer,website,none,card,home,1,?,17.72,1,4.1,10.6,92,5
+73152,2026-04-15,Ohrid,consumer,mobile app,gold,?,home,4,3.9,42.30,?,3.8,3.7,275,5
+73153,2026-04-15,Prilep,consumer,website,none,card,parcel locker,1,0.9,21.16,3,2.2,0.6,314,5
+73154,2026-04-15,Skopje,consumer,mobile app,bronze,bank transfer,home,2,2.4,49.11,1,3.4,1.5,251,4
+73155,2026-04-15,Kičevo,consumer,marketplace,bronze,cash on delivery,home,3,2.6,44.39,1,4.4,2.3,156,5
+73156,2026-04-15,Kičevo,consumer,marketplace,bronze,card,home,4,3.5,101.75,4,3.3,0.4,124,4
+73157,2026-04-16,Skopje,consumer,website,silver,card,home,2,1.6,71.13,1,3.9,6.4,188,4
+73158,2026-04-17,Skopje,consumer,website,bronze,card,home,2,2.3,50.35,5,3.1,2.9,376,3
+73159,2026-04-18,Tetovo,consumer,mobile app,none,cash on delivery,store pickup,2,1.9,30.48,3,?,3.2,177,4
+73160,2026-04-19,Štip,consumer,website,none,card,home,1,?,18.03,1,4.1,0.0,564,5
+73161,2026-04-19,Kičevo,consumer,website,none,card,home,1,0.5,37.77,3,2.8,0.9,90,5
+73162,2026-04-19,Štip,consumer,mobile app,platinum,cash on delivery,home,4,3.6,58.41,5,4.0,0.0,414,4
+73163,2026-04-20,Strumica,consumer,marketplace,none,cash on delivery,home,2,2.0,44.18,5,2.9,2.5,171,4
+73164,2026-04-20,Veles,consumer,marketplace,bronze,card,store pickup,3,?,56.55,2,?,5.1,172,5
+73165,2026-04-21,Berovo,consumer,marketplace,none,cash on delivery,store pickup,2,2.3,69.82,3,?,14.6,392,4
+73166,2026-04-21,Kičevo,consumer,mobile app,silver,cash on delivery,home,2,2.0,70.91,2,4.3,0.0,229,5
+73167,2026-04-21,Ohrid,consumer,website,bronze,card,home,2,2.3,39.92,5,3.6,0.0,162,4
+73168,2026-04-23,Kumanovo,consumer,website,silver,card,home,4,3.8,96.06,1,3.8,3.8,77,4
+73169,2026-04-24,Skopje,consumer,marketplace,none,wallet,home,3,2.5,44.95,3,3.2,1.0,399,5
+73170,2026-04-24,Bitola,consumer,website,silver,card,home,2,1.8,42.60,3,2.7,2.8,195,4
+73171,2026-04-25,Skopje,consumer,marketplace,bronze,cash on delivery,parcel locker,1,1.4,20.45,2,1.8,4.6,216,4
+73172,2026-04-25,Ohrid,consumer,website,bronze,cash on delivery,store pickup,3,2.2,90.27,4,?,2.7,255,4
+73173,2026-04-27,Skopje,consumer,marketplace,bronze,card,home,200,1.6,39.51,2,2.9,0.0,180,4
+73174,2026-05-01,Radoviš,consumer,marketplace,gold,cash on delivery,home,200,1.7,32.26,1,3.3,8.2,481,5
+73175,2026-05-04,Skopje,consumer,website,none,card,home,5,4.3,152.06,3,3.3,6.5,301,5
+73176,2026-05-05,Štip,consumer,marketplace,none,card,home,2,1.9,50.01,1,4.4,5.9,247,5
+73177,2026-05-06,Skopje,consumer,website,silver,bank transfer,parcel locker,2,?,28.66,2,2.4,0.0,210,?
+73178,2026-05-06,Kumanovo,business,website,none,card,parcel locker,30,26.8,908.52,3,1.5,7.6,467,5
+73179,2026-05-07,Skopje,consumer,mobile app,bronze,card,parcel locker,6,?,116.39,2,2.4,1.6,114,4
+73180,2026-05-11,Skopje,consumer,mobile app,gold,bank transfer,home,1,0.2,34.29,3,3.2,4.5,147,5
+73181,2026-05-12,Kumanovo,business,website,none,wallet,home,28,25.3,1152.71,5,4.2,2.4,475,3
+73182,2026-05-12,Kočani,consumer,marketplace,none,bank transfer,home,1,1.2,25.86,5,3.7,1.6,280,4
+73183,2026-05-16,Štip,consumer,mobile app,none,bank transfer,parcel locker,5,4.6,115.86,2,2.2,4.4,123,4
+73184,2026-05-17,Bitola,consumer,marketplace,bronze,card,home,2,?,71.60,2,4.2,2.1,319,5
+73185,2026-05-17,Skopje,consumer,marketplace,none,cash on delivery,parcel locker,2,?,55.24,1,2.1,0.0,78,4
+73186,2026-05-18,Berovo,consumer,mobile app,bronze,card,home,2,2.2,30.44,2,3.2,7.2,57,5
+73187,2026-05-20,Strumica,consumer,marketplace,none,wallet,home,4,?,50.30,5,2.7,4.7,203,3
+73188,2026-05-21,Ohrid,consumer,marketplace,none,card,home,3,3.5,58.63,2,3.7,0.0,136,3
+73189,2026-05-21,Ohrid,consumer,mobile app,bronze,card,parcel locker,4,3.7,87.43,5,1.7,6.0,131,4
+73190,2026-05-21,Prilep,consumer,mobile app,bronze,card,home,3,2.9,57.22,2,3.7,4.3,317,3
+73191,2026-05-21,Skopje,consumer,website,silver,card,home,1,6.2,24.44,3,4.0,2.9,296,4
+73192,2026-05-22,Skopje,consumer,website,silver,bank transfer,home,3,2.0,76.15,?,4.0,0.0,114,5
+73193,2026-05-23,Gostivar,consumer,website,bronze,cash on delivery,store pickup,2,1.9,31.12,2,?,14.9,123,5
+73194,2026-05-25,Strumica,consumer,website,gold,card,parcel locker,2,1.6,69.60,4,1.9,8.2,247,5
+73195,2026-05-30,Skopje,consumer,website,platinum,card,parcel locker,3,?,86.27,5,2.0,2.8,60,5
+73196,2026-06-02,Skopje,consumer,mobile app,gold,card,home,2,2.0,48.03,5,2.7,0.5,683,5
+73197,2026-06-02,Radoviš,consumer,mobile app,silver,cash on delivery,home,1,1.1,47.15,3,3.7,6.0,528,4
+73198,2026-06-02,Struga,consumer,marketplace,none,cash on delivery,home,3,2.8,100.84,2,3.1,1.9,131,3
+73199,2026-06-03,Kumanovo,consumer,marketplace,gold,card,store pickup,1,?,21.74,4,?,4.7,323,4
+73200,2026-06-04,Skopje,consumer,marketplace,none,?,home,6,?,90.61,5,4.3,2.7,97,?
+73201,2026-06-05,Kočani,consumer,mobile app,none,card,home,4,3.7,112.90,3,3.7,1.1,417,4
+73202,2026-06-07,Bitola,consumer,marketplace,none,cash on delivery,home,1,0.7,35.99,1,4.2,6.9,427,5
+73203,2026-06-08,Tetovo,consumer,mobile app,none,cash on delivery,parcel locker,3,2.4,44.99,1,2.0,2.3,81,4
+73204,2026-06-08,Veles,consumer,marketplace,bronze,card,parcel locker,1,1.4,22.17,2,1.8,6.3,637,5
+73205,2026-06-08,Bitola,consumer,website,bronze,card,parcel locker,2,2.0,34.01,1,2.2,5.3,259,4
+73206,2026-06-10,Kočani,consumer,website,platinum,bank transfer,parcel locker,2,1.4,18.20,5,1.9,2.4,259,4
+73207,2026-06-10,Skopje,consumer,website,bronze,bank transfer,parcel locker,2,1.9,55.11,5,1.8,4.1,160,4
+73208,2026-06-11,Štip,consumer,mobile app,bronze,card,parcel locker,1,0.7,34.38,4,1.6,4.1,207,3
+73209,2026-06-11,Struga,consumer,mobile app,none,card,home,2,1.5,41.48,3,4.0,0.0,385,4
+73210,2026-06-11,Radoviš,consumer,marketplace,none,card,parcel locker,3,?,85.77,?,2.1,5.4,183,4
+73211,2026-06-12,Skopje,consumer,marketplace,none,card,home,3,3.1,82.95,4,3.6,0.0,364,4
+73212,2026-06-12,Skopje,consumer,website,bronze,card,parcel locker,1,1.5,25.23,1,1.7,0.0,283,5
+73213,2026-06-12,Skopje,consumer,marketplace,none,wallet,parcel locker,1,1.0,36.82,1,2.2,4.6,176,4
+73214,2026-06-13,Skopje,consumer,website,bronze,card,parcel locker,2,2.4,46.88,5,2.2,0.0,83,3
+73215,2026-06-15,Strumica,consumer,mobile app,none,card,parcel locker,3,2.4,78.64,4,2.0,0.0,79,4
+73216,2026-06-17,Štip,consumer,marketplace,gold,card,parcel locker,4,3.0,79.86,2,2.0,10.2,225,5
+73217,2026-06-17,Negotino,business,website,none,cash on delivery,home,57,51.2,855.74,5,3.1,13.6,89,5
+73218,2026-06-18,Kičevo,consumer,website,silver,card,parcel locker,2,1.4,30.86,1,2.1,12.0,202,4
+73219,2026-06-18,Tetovo,consumer,marketplace,bronze,card,home,2,?,54.89,3,2.8,2.9,79,5
+73220,2026-06-19,Skopje,consumer,marketplace,gold,card,home,2,2.1,67.85,2,4.3,2.4,471,4
+73221,2026-06-21,Kumanovo,consumer,website,bronze,card,home,4,3.8,118.31,1,2.9,0.0,305,5
+73222,2026-06-21,Gostivar,consumer,marketplace,silver,card,home,2,2.2,67.36,3,3.0,3.0,337,5
+73223,2026-06-22,Skopje,consumer,marketplace,none,card,home,1,0.2,21.44,4,3.6,6.3,117,5
+73224,2026-06-23,Ohrid,consumer,marketplace,bronze,card,parcel locker,5,4.8,122.30,3,1.8,3.7,296,5
+73225,2026-06-24,Skopje,consumer,marketplace,silver,cash on delivery,parcel locker,2,1.7,79.95,2,1.6,14.2,155,3
+73226,2026-06-27,Struga,consumer,website,silver,cash on delivery,parcel locker,2,2.1,38.25,1,1.9,0.7,118,4
+73227,2026-06-28,Skopje,consumer,website,bronze,card,home,1,1.4,20.83,5,3.1,2.0,59,4
+73228,2026-06-28,Kavadarci,consumer,mobile app,none,card,home,2,1.5,36.89,5,2.9,0.0,141,3
+73229,2026-06-29,Skopje,consumer,website,bronze,card,store pickup,1,0.4,30.92,3,?,6.2,146,5
+73230,2026-06-30,Veles,consumer,mobile app,none,card,home,3,2.7,38.03,2,2.9,22.3,59,4
+73231,2026-06-30,Skopje,consumer,marketplace,bronze,card,home,5,?,110.32,1,3.7,1.1,288,5
+73232,2026-07-01,Štip,consumer,marketplace,silver,card,home,5,?,162.86,5,2.5,4.1,72,4
+73233,2026-07-02,Štip,consumer,marketplace,none,card,parcel locker,3,2.7,70.41,2,2.1,0.0,136,4
+73234,2026-07-02,Kavadarci,consumer,website,gold,cash on delivery,home,6,5.3,118.79,3,4.3,2.4,354,4
+73235,2026-07-02,Ohrid,consumer,mobile app,bronze,cash on delivery,home,4,3.8,79.99,1,2.6,1.2,287,5
+73236,2026-07-03,Radoviš,consumer,website,bronze,cash on delivery,home,6,5.6,193.72,2,4.3,2.1,281,5
+73237,2026-07-04,Skopje,consumer,marketplace,gold,wallet,parcel locker,6,?,118.76,5,1.8,5.0,41,3
+73238,2026-07-04,Kičevo,consumer,mobile app,none,bank transfer,store pickup,5,4.6,120.59,4,?,1.4,228,5
+73239,2026-07-04,Tetovo,consumer,website,bronze,cash on delivery,home,1,1.3,36.56,1,4.3,1.2,109,5
+73240,2026-07-05,Ohrid,consumer,website,bronze,cash on delivery,store pickup,3,3.1,52.50,2,?,4.3,213,4
+73241,2026-07-07,Bitola,consumer,marketplace,silver,cash on delivery,home,5,4.5,108.56,1,3.9,9.0,496,5
+73242,2026-07-07,Bitola,consumer,marketplace,none,card,home,2,1.3,30.43,1,3.7,4.0,157,5
+73243,2026-07-07,Gostivar,consumer,marketplace,bronze,card,parcel locker,2,1.4,35.71,2,2.0,2.2,24,5
+73244,2026-07-09,Ohrid,consumer,mobile app,platinum,cash on delivery,parcel locker,2,1.4,40.95,3,2.0,4.9,92,4
+73245,2026-07-10,Bitola,consumer,marketplace,gold,wallet,home,2,?,71.61,4,4.2,8.6,267,4
+73246,2026-07-11,Skopje,consumer,website,silver,card,home,1,0.4,20.50,4,4.0,8.2,135,5
+73247,2026-07-11,Gostivar,consumer,marketplace,none,card,home,1,?,20.92,4,4.3,4.0,140,5
+73248,2026-07-11,Skopje,consumer,website,platinum,?,home,1,1.6,36.88,5,3.8,5.1,311,5
+73249,2026-07-11,Skopje,consumer,marketplace,silver,cash on delivery,home,3,2.9,64.17,1,3.4,5.9,245,5
+73250,2026-07-11,Gevgelija,consumer,marketplace,none,card,parcel locker,2,1.9,68.24,1,1.8,1.4,166,4
+73251,2026-07-13,Prilep,consumer,website,none,card,parcel locker,1,1.1,50.76,4,1.7,3.1,187,3
+73252,2026-07-13,Skopje,consumer,marketplace,gold,card,store pickup,1,?,24.18,1,?,4.1,96,5
+73253,2026-07-13,Skopje,consumer,marketplace,silver,card,home,2,2.0,34.20,3,4.3,8.6,177,4
+73254,2026-07-13,Skopje,consumer,marketplace,platinum,card,parcel locker,3,2.8,113.27,2,2.3,10.9,109,4
+73255,2026-07-14,Skopje,consumer,website,silver,card,home,3,2.8,82.97,1,2.9,0.0,24,5
+73256,2026-07-15,Skopje,consumer,marketplace,gold,card,parcel locker,1,1.1,24.77,1,1.9,8.7,289,5
+73257,2026-07-15,Strumica,consumer,website,none,card,home,1,0.8,49.73,?,2.5,1.8,291,4
+73258,2026-07-19,Skopje,consumer,website,none,bank transfer,home,1,0.7,25.46,1,4.0,2.5,102,5
+73259,2026-07-19,Prilep,consumer,mobile app,none,wallet,parcel locker,2,2.0,41.15,4,2.2,0.0,208,4
+73260,2026-07-20,Kavadarci,consumer,marketplace,silver,card,home,3,?,58.96,2,2.8,2.5,361,4
+73261,2026-07-21,Veles,consumer,website,silver,card,parcel locker,2,1.9,42.52,3,2.0,0.0,66,5
+73262,2026-07-21,Skopje,consumer,website,none,card,parcel locker,5,4.3,84.79,?,2.4,1.1,431,4
+73263,2026-07-23,Tetovo,consumer,website,bronze,bank transfer,parcel locker,4,3.4,65.20,3,2.3,2.6,231,4
+73264,2026-07-23,Ohrid,consumer,marketplace,none,card,home,1,1.1,48.10,5,4.1,0.0,603,4
+73265,2026-07-26,Kumanovo,consumer,website,gold,card,parcel locker,1,1.1,29.74,3,2.4,0.9,552,4
+73266,2026-07-26,Gevgelija,consumer,marketplace,none,card,home,1,?,19.54,1,3.3,3.6,105,5
+73267,2026-07-28,Veles,consumer,marketplace,none,cash on delivery,home,2,2.2,45.10,3,3.4,1.1,288,?
+73268,2026-07-28,Veles,consumer,mobile app,none,card,home,4,3.6,52.71,4,2.8,3.4,133,5
+73269,2026-07-29,Gostivar,consumer,marketplace,none,card,home,5,?,102.74,4,3.6,0.0,134,4
+73270,2026-07-31,Ohrid,consumer,mobile app,none,cash on delivery,home,4,3.3,111.21,3,4.3,2.0,269,3
+73271,2026-07-31,Ohrid,consumer,mobile app,none,bank transfer,home,1,6.7,20.70,1,3.7,1.0,306,5
+73272,2026-07-31,Kumanovo,consumer,mobile app,none,card,home,4,3.4,79.52,3,3.6,0.0,311,4
+73273,2026-08-01,Tetovo,consumer,website,none,card,home,1,0.8,27.86,1,2.7,12.0,259,5
+73274,2026-08-04,Veles,consumer,website,gold,bank transfer,parcel locker,1,1.1,22.46,5,2.2,0.0,385,5
+73275,2026-08-04,Skopje,consumer,marketplace,gold,?,home,1,1.1,19.33,5,2.9,3.1,686,5
+73276,2026-08-04,Kumanovo,business,website,gold,bank transfer,parcel locker,48,42.8,1271.68,5,1.8,3.6,106,4
+73277,2026-08-05,Ohrid,consumer,website,gold,cash on delivery,home,1,1.0,22.96,4,3.6,9.3,224,4
+73278,2026-08-07,Ohrid,consumer,marketplace,none,card,home,1,1.0,29.84,5,3.8,6.1,154,5
+73279,2026-08-07,Skopje,consumer,website,none,cash on delivery,parcel locker,300,3.0,89.52,2,2.3,9.1,139,4
+73280,2026-08-10,Ohrid,consumer,website,none,card,home,1,?,35.64,1,3.1,1.4,196,4
+73281,2026-08-10,Prilep,consumer,marketplace,bronze,card,home,3,?,31.26,5,2.9,2.0,227,3
+73282,2026-08-11,Strumica,consumer,website,silver,card,home,2,1.5,32.34,3,4.2,1.6,86,5
+73283,2026-08-11,Kičevo,consumer,marketplace,bronze,card,store pickup,2,?,44.67,?,?,1.8,81,3
+73284,2026-08-11,Kumanovo,consumer,marketplace,none,cash on delivery,home,2,1.5,40.08,3,3.5,0.0,188,5
+73285,2026-08-12,Tetovo,consumer,website,platinum,card,home,2,2.0,30.98,1,3.1,1.3,339,5
+73286,2026-08-12,Struga,consumer,marketplace,gold,cash on delivery,home,2,?,46.71,4,3.4,1.8,122,5
+73287,2026-08-12,Veles,business,website,bronze,cash on delivery,parcel locker,44,39.2,511.24,5,1.8,0.0,326,4
+73288,2026-08-15,Bitola,consumer,marketplace,bronze,?,home,1,?,40.46,?,3.5,4.4,60,3
+73289,2026-08-15,Gostivar,consumer,marketplace,bronze,wallet,home,1,?,16.73,1,4.0,13.2,332,4
+73290,2026-08-16,Prilep,consumer,website,bronze,card,home,1,1.0,40.72,?,2.6,5.0,171,4
+73291,2026-08-18,Gostivar,consumer,website,gold,bank transfer,home,1,1.2,17.19,4,3.2,0.0,181,3
+73292,2026-08-19,Radoviš,consumer,marketplace,none,?,home,2,1.5,25.52,2,3.6,2.3,189,5
+73293,2026-08-21,Ohrid,consumer,website,none,cash on delivery,parcel locker,3,2.7,47.21,3,2.0,1.9,778,4
+73294,2026-08-22,Skopje,consumer,mobile app,bronze,card,home,1,0.7,30.01,3,2.9,0.0,226,4
+73295,2026-08-22,Štip,consumer,marketplace,none,card,parcel locker,2,2.3,39.89,2,2.0,4.8,107,5
+73296,2026-08-23,Tetovo,consumer,mobile app,none,cash on delivery,parcel locker,2,1.6,35.77,5,1.5,0.0,53,3
+73297,2026-08-23,Kriva Palanka,consumer,mobile app,silver,card,home,3,2.5,73.53,4,4.0,2.0,188,3
+73298,2026-08-25,Ohrid,consumer,marketplace,none,?,parcel locker,2,2.4,68.01,2,1.5,13.6,311,5
+73299,2026-08-26,Ohrid,consumer,marketplace,silver,cash on delivery,home,1,1.6,28.65,3,3.9,3.4,154,4
+73300,2026-08-29,Gostivar,consumer,marketplace,bronze,cash on delivery,home,3,2.6,86.63,4,4.2,10.7,176,4
+73301,2026-09-01,Kičevo,consumer,marketplace,none,cash on delivery,parcel locker,3,?,107.70,5,2.4,1.1,152,3
+73302,2026-09-02,Skopje,consumer,mobile app,bronze,?,parcel locker,4,3.6,57.84,2,2.2,3.0,291,4
+73303,2026-09-03,Skopje,consumer,marketplace,bronze,cash on delivery,home,2,?,48.85,5,4.0,57.3,281,3
+73304,2026-09-08,Kičevo,consumer,mobile app,bronze,card,home,1,1.0,20.72,5,4.3,3.5,191,3
+73305,2026-09-09,Tetovo,consumer,website,none,card,home,3,2.7,128.27,2,4.5,0.0,458,3
+73306,2026-09-09,Tetovo,business,website,silver,card,store pickup,60,54.1,1375.98,1,?,4.8,136,5
+73307,2026-09-09,Štip,consumer,mobile app,bronze,card,home,2,1.4,96.09,2,3.4,2.0,329,4
+73308,2026-09-09,Bitola,consumer,marketplace,gold,cash on delivery,parcel locker,2,?,44.35,3,1.8,3.1,432,5
+73309,2026-09-11,Skopje,consumer,marketplace,none,bank transfer,parcel locker,5,4.9,150.09,2,2.4,1.3,219,5
+73310,2026-09-11,Tetovo,consumer,marketplace,silver,card,home,2,2.1,26.57,4,3.0,2.9,135,4
+73311,2026-09-13,Gostivar,consumer,marketplace,none,cash on delivery,home,3,?,58.57,1,3.3,8.3,233,5
+73312,2026-09-15,Kočani,consumer,marketplace,none,bank transfer,store pickup,5,4.5,61.69,4,?,0.0,249,4
+73313,2026-09-15,Skopje,consumer,marketplace,none,cash on delivery,home,4,4.1,77.99,4,3.3,2.2,111,3
+73314,2026-09-15,Bitola,consumer,marketplace,none,card,home,5,?,54.83,1,3.2,1.8,402,5
+73315,2026-09-16,Strumica,consumer,website,bronze,card,home,4,3.7,126.30,4,3.2,7.0,755,5
+73316,2026-09-18,Skopje,consumer,marketplace,bronze,card,home,1,1.4,42.23,8,4.5,15.5,56,?
+73317,2026-09-20,Kriva Palanka,consumer,website,gold,card,home,1,0.9,43.19,1,3.3,3.6,524,3
+73318,2026-09-20,Radoviš,consumer,mobile app,bronze,card,parcel locker,2,1.5,76.06,5,2.4,7.4,163,5
+73319,2026-09-24,Radoviš,consumer,marketplace,none,wallet,parcel locker,2,?,38.40,3,1.6,4.1,64,4
+73320,2026-09-25,Skopje,consumer,website,bronze,cash on delivery,home,3,2.8,44.96,2,4.2,4.4,308,5
+73321,2026-09-27,Radoviš,consumer,marketplace,none,cash on delivery,store pickup,3,2.7,103.54,2,?,2.3,106,5
+73322,2026-09-27,Resen,consumer,website,none,card,store pickup,1,0.4,23.29,12,?,1.7,308,1
+73323,2026-09-29,Štip,consumer,website,none,cash on delivery,home,1,1.0,19.50,2,2.7,0.0,177,4
+73324,2026-09-29,Kičevo,consumer,marketplace,silver,card,home,4,3.4,140.95,2,3.0,10.7,280,5
+73325,2026-10-02,Tetovo,consumer,website,platinum,card,home,5,4.1,103.64,4,2.6,2.6,151,4
+73326,2026-10-03,Bitola,consumer,marketplace,none,cash on delivery,home,1,0.9,56.79,4,3.2,0.7,348,3
+73327,2026-10-06,Ohrid,business,website,none,cash on delivery,store pickup,29,24.9,305.14,4,?,8.3,26,4
+73328,2026-10-06,Skopje,consumer,website,bronze,card,parcel locker,5,?,136.49,4,1.5,3.2,315,5
+73329,2026-10-08,Struga,consumer,marketplace,bronze,bank transfer,home,2,1.9,42.25,5,3.8,0.0,91,4
+73330,2026-10-08,Radoviš,consumer,mobile app,none,card,home,1,1.4,32.07,2,4.2,1.5,67,5
+73331,2026-10-09,Kičevo,consumer,marketplace,silver,?,parcel locker,2,1.9,66.18,3,2.3,4.3,163,4
+73332,2026-10-10,Kumanovo,consumer,website,none,card,store pickup,4,3.8,40.38,2,?,4.6,395,5
+73333,2026-10-12,Skopje,consumer,marketplace,none,cash on delivery,home,1,0.5,25.27,5,2.8,0.0,205,?
+73334,2026-10-13,Dojran,consumer,marketplace,bronze,card,home,3,3.7,48.32,2,3.1,1.2,185,4
+73335,2026-10-13,Bitola,consumer,mobile app,none,card,home,4,3.7,66.98,2,3.2,1.1,103,5
+73336,2026-10-13,Skopje,consumer,website,gold,cash on delivery,home,2,2.0,35.12,?,4.1,2.1,198,5
+73337,2026-10-14,Veles,consumer,website,platinum,cash on delivery,home,2,2.3,46.49,4,4.2,12.2,195,4
+73338,2026-10-15,Prilep,consumer,website,none,bank transfer,home,1,0.5,10.72,3,3.4,2.9,109,4
+73339,2026-10-16,Tetovo,consumer,marketplace,none,card,parcel locker,2,1.8,84.46,4,1.6,6.2,107,4
+73340,2026-10-16,Radoviš,consumer,marketplace,bronze,cash on delivery,home,4,3.5,109.33,2,2.6,0.0,91,5
+73341,2026-10-17,Skopje,consumer,marketplace,none,card,parcel locker,1,1.2,19.53,1,2.4,0.0,568,5
+73342,2026-10-17,Veles,consumer,mobile app,bronze,card,home,3,2.9,121.37,9,3.5,2.8,372,2
+73343,2026-10-20,Ohrid,consumer,marketplace,bronze,card,home,2,2.3,31.36,12,4.1,4.2,446,2
+73344,2026-10-22,Kočani,consumer,marketplace,bronze,bank transfer,home,1,1.5,27.34,10,3.7,2.1,370,2
+73345,2026-10-23,Kumanovo,consumer,marketplace,bronze,cash on delivery,home,3,2.4,78.49,2,3.6,0.0,762,5
+73346,2026-10-24,Kumanovo,consumer,mobile app,none,card,home,1,1.2,20.31,3,2.7,0.9,319,4
+73347,2026-10-26,Skopje,consumer,mobile app,none,bank transfer,store pickup,2,2.5,41.78,2,?,1.4,129,4
+73348,2026-10-26,Skopje,consumer,marketplace,bronze,card,home,1,1.0,21.53,5,3.9,2.1,478,3
+73349,2026-10-26,Kavadarci,consumer,marketplace,gold,card,home,4,3.4,56.36,?,4.4,7.0,422,5
+73350,2026-10-27,Bitola,consumer,marketplace,platinum,card,parcel locker,3,?,90.95,1,1.9,1.0,140,5
+73351,2026-10-27,Skopje,consumer,mobile app,bronze,card,store pickup,2,1.8,45.42,3,?,1.5,416,3
+73352,2026-10-28,Skopje,consumer,website,bronze,cash on delivery,home,3,3.0,67.95,5,3.9,0.0,291,3
+73353,2026-10-28,Skopje,consumer,website,none,card,home,2,1.4,37.26,2,4.2,2.6,134,5
+73354,2026-10-28,Prilep,business,website,silver,?,home,42,38.0,1234.79,1,2.5,2.2,87,3
+73355,2026-10-30,Skopje,consumer,marketplace,bronze,cash on delivery,home,5,?,67.50,4,2.9,0.0,80,5
+73356,2026-11-01,Debar,consumer,website,silver,card,home,1,1.2,20.74,2,3.1,4.1,210,5
+73357,2026-11-01,Gostivar,consumer,marketplace,bronze,?,store pickup,4,3.3,105.85,1,?,1.3,207,4
+73358,2026-11-01,Skopje,consumer,mobile app,none,cash on delivery,home,2,1.7,71.72,5,4.2,2.3,82,3
+73359,2026-11-06,Gostivar,consumer,mobile app,silver,card,store pickup,1,0.8,21.23,8,?,2.5,204,3
+73360,2026-11-07,Skopje,consumer,website,platinum,wallet,home,1,1.3,46.23,4,3.2,0.0,198,3
+73361,2026-11-07,Skopje,consumer,website,none,card,parcel locker,3,2.7,104.85,4,2.0,2.3,106,5
+73362,2026-11-08,Dojran,consumer,website,none,card,parcel locker,2,1.7,63.55,1,1.5,5.5,208,5
+73363,2026-11-08,Skopje,consumer,website,gold,bank transfer,store pickup,2,3.0,49.88,2,?,2.8,120,5
+73364,2026-11-10,Skopje,consumer,mobile app,platinum,?,home,5,4.9,80.42,4,4.2,0.0,493,4
+73365,2026-11-10,Skopje,consumer,marketplace,silver,card,home,3,?,46.39,4,3.1,0.0,211,4
+73366,2026-11-11,Skopje,consumer,marketplace,bronze,card,parcel locker,1,?,18.32,5,2.2,6.2,276,5
+73367,2026-11-11,Kriva Palanka,consumer,mobile app,none,bank transfer,parcel locker,2,1.6,58.72,2,1.8,5.3,175,5
+73368,2026-11-11,Skopje,consumer,website,silver,?,parcel locker,4,3.7,53.97,3,1.7,1.1,103,4
+73369,2026-11-11,Bitola,consumer,marketplace,bronze,card,parcel locker,3,?,36.47,4,1.7,0.0,182,5
+73370,2026-11-12,Prilep,consumer,mobile app,bronze,cash on delivery,home,2,1.7,86.58,11,3.3,0.0,190,1
+73371,2026-11-13,Tetovo,consumer,website,bronze,card,parcel locker,2,1.8,50.01,?,2.4,1.3,265,5
+73372,2026-11-13,Skopje,consumer,mobile app,none,cash on delivery,parcel locker,2,2.0,33.31,4,1.6,0.0,200,3
+73373,2026-11-14,Skopje,consumer,marketplace,silver,bank transfer,parcel locker,2,?,100.00,2,1.7,5.7,771,5
+73374,2026-11-14,Skopje,consumer,website,bronze,card,home,1,?,18.96,5,3.1,2.5,167,3
+73375,2026-11-15,Struga,consumer,marketplace,none,cash on delivery,store pickup,6,5.7,262.36,5,?,0.0,230,4
+73376,2026-11-17,Skopje,consumer,website,none,card,parcel locker,2,2.0,31.53,1,2.0,4.3,179,5
+73377,2026-11-17,Bitola,consumer,marketplace,silver,bank transfer,home,3,2.4,35.26,2,3.9,1.8,366,5
+73378,2026-11-17,Skopje,consumer,marketplace,silver,cash on delivery,parcel locker,2,1.7,63.58,2,1.5,3.2,101,5
+73379,2026-11-17,Skopje,business,website,gold,card,parcel locker,36,32.4,970.16,3,2.4,0.0,159,3
+73380,2026-11-18,Skopje,consumer,website,silver,card,home,1,1.0,14.77,3,3.2,0.0,348,4
+73381,2026-11-18,Skopje,consumer,marketplace,none,card,home,4,3.5,99.49,5,4.4,0.0,197,3
+73382,2026-11-19,Prilep,consumer,website,none,card,home,2,2.6,44.77,3,2.6,0.7,346,5
+73383,2026-11-20,Skopje,consumer,website,gold,card,parcel locker,2,1.9,69.71,1,2.1,3.2,482,5
+73384,2026-11-20,Skopje,consumer,marketplace,silver,cash on delivery,home,5,4.4,165.42,4,3.3,2.5,336,4
+73385,2026-11-21,Skopje,consumer,marketplace,bronze,cash on delivery,home,2,1.6,55.16,4,2.8,12.2,356,4
+73386,2026-11-22,Skopje,consumer,marketplace,silver,card,home,2,?,119.38,5,3.0,11.2,230,3
+73387,2026-11-23,Kumanovo,consumer,mobile app,gold,card,home,1,0.7,27.21,3,2.7,9.8,378,4
+73388,2026-11-23,Skopje,consumer,website,bronze,card,home,2,1.7,34.38,2,4.2,0.0,322,5
+73389,2026-11-24,Dojran,consumer,mobile app,none,card,home,1,0.8,26.05,2,4.3,2.7,170,4
+73390,2026-11-25,Veles,consumer,marketplace,silver,cash on delivery,home,5,?,109.69,9,4.4,0.0,136,2
+73391,2026-11-25,Kriva Palanka,consumer,website,none,cash on delivery,store pickup,3,2.7,79.65,2,?,6.0,166,3
+73392,2026-11-26,Skopje,consumer,marketplace,bronze,bank transfer,parcel locker,3,?,80.12,2,1.6,9.8,148,5
+73393,2026-11-26,Ohrid,consumer,website,gold,card,home,4,3.2,118.54,2,3.7,1.9,128,5
+73394,2026-11-26,Delčevo,consumer,mobile app,none,cash on delivery,home,5,4.6,71.71,1,3.7,6.8,112,4
+73395,2026-11-27,Kavadarci,consumer,mobile app,bronze,wallet,home,2,1.4,25.25,1,3.1,6.1,186,5
+73396,2026-11-28,Bitola,consumer,website,gold,card,parcel locker,5,3.9,72.66,4,2.3,13.5,336,4
+73397,2026-11-30,Kičevo,consumer,marketplace,bronze,card,home,2,?,33.71,4,3.8,2.7,159,4
+73398,2026-11-30,Kumanovo,consumer,marketplace,none,card,parcel locker,3,3.0,99.14,5,1.8,0.0,101,3
+73399,2026-11-30,Strumica,consumer,marketplace,bronze,cash on delivery,home,2,?,99.49,2,4.2,7.5,282,4
+73400,2026-11-30,Skopje,consumer,marketplace,platinum,card,store pickup,1,?,36.87,?,?,0.0,232,4
